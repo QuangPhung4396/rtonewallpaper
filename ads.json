@@ -7,5 +7,5 @@
   "COUNT_DOWNLOAD_RINGTONE": 3,
   "COUNT_DOWNLOAD_BACKGROUND": 3,
   "SHOW_ADS_LAUNCH_APP": true,
-  "RATE_APP": false
+  "RATE_APP": true
 }
